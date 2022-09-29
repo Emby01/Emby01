@@ -15,9 +15,9 @@ I use this GitHub account for many things:
 # 🌱 What I’m currently learning
 I'm overall just trying to get the hang of creating things with GitHub. Also trying to figure out how to get better at programming. And so trying to use Unity.
 # 💞️ I’m looking to collaborate on: 
-Nothing. interesting choice of emoji for the template github
+Nothing. interesting choice of emoji for the template github. Collaboration is fun but that's something that I like to call a *later problem*. Keep that in mind.
 # 📫 How to reach me ...
-idk actually
+Find my Discord account it has the same pfp as my GitHub account.
 <!---
 Emby01/Emby01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
