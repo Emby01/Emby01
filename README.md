@@ -1,5 +1,5 @@
 # 👋 Hi!
-I'm Emby01, you can call me Emby. I made this GitHub account originally just to connect it to Discord lol. But now I actually use it for programming-related and software development! Well kind of, if you can call tracking issues and occasionally uploading updates to my test unity game programming-related/software development.
+I'm Emby01, you can call me Emby. I made this GitHub account originally just to connect it to Discord lol. But now I actually use it for programming-related and software development! Well kind of, if you can call tracking issues and occasionally uploading updates to my test unity game programming-related/software development. Still trying to figure out how to use GitHub to its fullest.
 
 - ~~Proudly~~ part of [ErroneousCreations](https://github.com/ErroneousCreations), the definitely best indie game dev team
 - I'm okay at HTML + CSS and i would like to put the files on github for version control but  i can't figure out how to preview the html files without using github pages. pls tell me if u know how
