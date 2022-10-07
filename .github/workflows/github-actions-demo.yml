@@ -1,18 +1,18 @@
-name: GitHub Actions Demo
-run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
-on: [push]
+name: Add to GitHub projects
+
+on:
+  issues:
+    types:
+      - opened
+
 jobs:
-  Explore-GitHub-Actions:
+  add-to-project:
+    name: Add issue to project
     runs-on: ubuntu-latest
     steps:
-      - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
-      - run: echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
-      - run: echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
-      - name: Check out repository code
-        uses: actions/checkout@v3
-      - run: echo "💡 The ${{ github.repository }} repository has been cloned to the runner."
-      - run: echo "🖥️ The workflow is now ready to test your code on the runner."
-      - name: List files in the repository
-        run: |
-          ls ${{ github.workspace }}
-      - run: echo "🍏 This job's status is ${{ job.status }}."
+      - uses: actions/add-to-project@v0.3.0
+        with:
+          # You can target a repository in a different organization
+          # to the issue
+          project-url: https://github.com/Emby01/Emby01
+          github-token: ${{ secrets.ADD_TO_PROJECT_PAT }}
