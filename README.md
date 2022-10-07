@@ -8,12 +8,15 @@ I'm Emby01, you can call me Emby. I made this GitHub account originally just to 
 - my favourite game is ugmania probably because i help develop it
 # 👀 What I do
 I use this GitHub account for many things:
-- Helping develop [ErroneousCreationist](https://github.com/ErroneousCreationist)'s game, Ugmania (go check it out at https://erroneouscreationist.itch.io/ugmania)
+<img src="ugfavicon.png" alt="ug favicon" width="200" align="right">
+- Helping develop [ErroneousCreationist](https://github.com/ErroneousCreationist)'s game, Ugmania (go check it out at https://erroneouscreationist.itch.io/ugmania) 
 - Also helping [ErroneousCreationist](https://github.com/ErroneousCreationist) create the Wrian the Gamer mod for Don't Starve Together
 - Something to connect to my Discord account (the more connections the cooler)
 - And maybe software development in the future.
 - Or maybe software development now.
 - Game development (kind of)
+<img src="logo-unity-web.png" alt="unity logo" width="200" align="right">
+
 # 🌱 What I’m currently learning
 I'm overall just trying to get the hang of creating things with GitHub. Also trying to figure out how to get better at programming. And also trying to use Unity (and following Brackeys tutorials bc im dum).
 # 💞️ I’m looking to collaborate on: 
