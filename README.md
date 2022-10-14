@@ -6,6 +6,9 @@ I'm Emby01, you can call me Emby. I made this GitHub account originally just to 
 - ~~Proudly~~ part of [ErroneousCreations](https://github.com/ErroneousCreations), the definitely best indie game dev team
 - I'm okay at HTML + CSS and i would like to put the files on github for version control but  i can't figure out how to preview the html files without using github pages. pls tell me if u know how
 - my favourite game is ugmania probably because i help develop it
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emby01&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 # 👀 What I do
 I use this GitHub account for many things:
 <img src="ugfavicon.png" alt="ug favicon" width="200" align="right">
