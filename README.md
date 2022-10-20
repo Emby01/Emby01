@@ -17,6 +17,8 @@ I use this GitHub account for many things:
 - Something to connect to my Discord account (the more connections the cooler)
 - Making some random HTML + CSS websites (like ErroneousJournalist)
 - Game development (kind of)
+- Figuring out how to use a pull request
+
 <img src="logo-unity-web.png" alt="unity logo" width="200" align="right">
 
 # 🌱 What I’m currently learning
