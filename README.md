@@ -1,24 +1,26 @@
 # 👋 Hi! 
 <img src="japanflowertransparent.png" alt="pfp" width="200" align="right">
 
-I'm Emby01, you can call me Emby. i made this GitHub account originally just to connect it to Discord (you can tell by the large no commit gap between february 2022 and recently). but now I actually use it for programming-related and software development! well kind of, if you can call tracking issues, randomly making websites and rarely pushing updates to my test unity game programming-related/software development. i'm still trying to figure out how to use GitHub to its fullest.
+I'm Emby01, you can call me Emby. I made this GitHub account originally just to connect it to Discord. But now I actually use it for programming-related and software development! Well kind of if you consider web development and occasional issue tracking "programming-related" stuff and "software develpoment". I'm still trying to figure out how to use GitHub to its fullest.
 
-- ~~proudly~~ part of [ErroneousCreations](https://github.com/ErroneousCreations), the definitely best indie game dev team
-- i'm okay at HTML + CSS. Still need to figure out JavaScript to make the pages interactive. You can check out my ErroneousJournalist site to see what I've made so far. 
-- because I had trouble previewing HTML files on GitHub within VSCode, I have the **solution: clone the repo and you can now preview it locally with your preview extension of choice. then push the changes to github manually**. it's obvious, i'm dumb, you're a genius, i get it.
-- one of my favourite games is ugmania probably because i help develop it and because it's free. i mean there's also minecraft and a ton of free steam games but still
+- ~~Proudly~~ part of [ErroneousCreations](https://github.com/ErroneousCreations), the definitely best indie game dev team
+- i'm okay at HTML + CSS, ig. check out my current project, ErroneousJournalist, [here](https://github.com/Emby01/ErroneousJournalist)
+- ugmania is really good go [download it](https://erroneouscreationist.itch.io/ugmania)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emby01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 # 👀 What I do
 I use this GitHub account for many things:
 <img src="ugfavicon.png" alt="ug favicon" width="200" align="right">
-- helping develop [ErroneousCreationist](https://github.com/ErroneousCreationist)'s game, Ugmania (go check it out at https://erroneouscreationist.itch.io/ugmania) 
-- also helping [ErroneousCreationist](https://github.com/ErroneousCreationist) create the Wrian the Gamer mod for Don't Starve Together
+
+- helping develop [ErroneousCreationist](https://github.com/ErroneousCreationist)'s game, Ugmania ([go check it out](https://erroneouscreationist.itch.io/ugmania)) 
+- also helping ErroneousCreationist create the [Wrian the Gamer mod for Don't Starve Together](https://steamcommunity.com/sharedfiles/filedetails/?id=2837791923)
 - something to connect to my Discord account (the more connections the cooler)
 - and maybe software development in the future.
 - or maybe software development now.
 - game development (kind of)
+- figuring out how to use pull request
+
 <img src="logo-unity-web.png" alt="unity logo" width="200" align="right">
 
 # 🌱 What I’m currently learning
