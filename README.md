@@ -1,5 +1,5 @@
 # 👋 Hi! 
-<img src="japanflowertransparent.png" alt="pfp" width="200" align="right">
+<img src="profile pictures\japanflowertransparent.png" alt="pfp" width="200" align="right">
 
 I'm Emby01, you can call me Emby. I made this GitHub account originally just to connect it to Discord. But now I actually use it for programming-related and software development! Well kind of if you consider web development and occasional issue tracking "programming-related" stuff and "software develpoment". I'm still trying to figure out how to use GitHub to its fullest.
 
@@ -11,7 +11,7 @@ I'm Emby01, you can call me Emby. I made this GitHub account originally just to 
 
 # 👀 What I do
 I use this GitHub account for many things:
-<img src="ugfavicon.png" alt="ug favicon" width="200" align="right">
+<img src="images\ugfavicon.png" alt="ug favicon" width="200" align="right">
 
 - helping develop [ErroneousCreationist](https://github.com/ErroneousCreationist)'s game, Ugmania ([go check it out](https://erroneouscreationist.itch.io/ugmania)) 
 - also helping ErroneousCreationist create the [Wrian the Gamer mod for Don't Starve Together](https://steamcommunity.com/sharedfiles/filedetails/?id=2837791923)
@@ -21,7 +21,7 @@ I use this GitHub account for many things:
 - game development (kind of)
 - figuring out how to use pull request
 
-<img src="logo-unity-web.png" alt="unity logo" width="200" align="right">
+<img src="images\logo-unity-web.png" alt="unity logo" width="200" align="right">
 
 # 🌱 What I’m currently learning
 I'm overall just trying to get the hang of creating things with GitHub. also trying to figure out how to get better at programming. and also trying to use Unity (and following Brackeys tutorials bc im dum).
