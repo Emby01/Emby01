@@ -19,7 +19,9 @@ I use this GitHub account for many things:
 - game development (kind of)
 - figuring out how to use pull request
 
+<!---
 <img src="images\logo-unity-web.png" alt="unity logo" width="200" align="right">
+--->
 
 # 🌱 What I’m currently learning
 I'm overall just trying to get the hang of creating things with GitHub. also trying to figure out how to get better at programming. and ~~also trying to use Unity (and following Brackeys tutorials bc im dum)~~ (now godot, because unity stuff).
