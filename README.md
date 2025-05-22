@@ -1,11 +1,12 @@
 # 👋 Hi! 
-
-<img src = "profile-pictures/embypfp.png" width = "200" align = right>
+<img src = "profile-pictures/embypfp.png" width = "200" align = right alt = "Emby01's profile picture">
 
 I'm Emby01, you can call me Emby.
 
 - ~~Proudly~~ part of [ErroneousCreations](https://github.com/ErroneousCreations)
 - ugmania is really good go [download it](https://erroneouscreationist.itch.io/ugmania)
+- check out the [zen browser](https://github.com/zen-browser/desktop)
+- thankyou Kalepa for the pfp 🥰
 
 # 👀 What I do
 I use this GitHub account for many things:
