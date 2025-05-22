@@ -1,5 +1,6 @@
 # 👋 Hi! 
-<img src="profile pictures\japanflowertransparent.png" alt="pfp" width="200" align="right">
+
+<img src = "profile-pictures/embypfp.png" width = "200" align = right>
 
 I'm Emby01, you can call me Emby.
 
